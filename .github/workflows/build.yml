@@ -43,12 +43,6 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y cmake gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-eabi-newlib build-essential
-      - name: Setup Pico SDK
-        run: |
-          git clone https://github.com/raspberrypi/pico-sdk.git
-          cd pico-sdk
-          git submodule update --init
-          cd ..
           
       - name: Create build directory and run CMake
         env:
