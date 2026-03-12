@@ -1,0 +1,41 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,205,60,231"/>
+<area shape="rect" id="Node000002" href="$hal__pico_8c.html#a8737378015e721f0a0e10a0213ff310a" title="Gets a USB&#45;PD packet from a port." alt="" coords="124,55,244,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,204,59,149,80,117,106,89,113,84,116,89,110,93,84,120,64,152,40,206"/>
+<area shape="rect" id="Node000007" href="$hal__pico_8c.html#af5ea9c5882c188e9e9ca181430547644" title="Initializes a USB&#45;PD port." alt="" coords="149,104,219,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="43,203,70,176,107,146,134,132,137,136,109,151,74,179,47,207"/>
+<area shape="rect" id="Node000009" href="$mitm_2main_8c.html#ae116e5372ab52cb23ab6361229c1c6dc" title="Injects a Vendor Defined Message (VDM) into the USB&#45;PD bus." alt="" coords="349,155,443,180"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="59,205,107,190,228,172,335,166,335,171,229,178,109,195,61,210"/>
+<area shape="rect" id="Node000013" href="$pd__sink_8c.html#af7474092a69bea5fba0fb00f1da7bf23" title="Handles a USB&#45;PD packet for a sink." alt="" coords="109,205,259,231"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="60,215,95,215,95,221,60,221"/>
+<area shape="rect" id="Node000016" href="$pd__sink_8c.html#a9799f89acd421e773e8d2db39d78598b" title="Initializes a USB&#45;PD sink." alt="" coords="145,255,223,280"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="61,225,109,241,133,249,131,254,107,246,59,230"/>
+<area shape="rect" id="Node000017" href="$pd__sink_8c.html#a9498bf7778c86b42bcb18622000120c6" title="Requests a power profile from a USB&#45;PD source." alt="" coords="108,304,260,329"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="46,229,72,260,109,290,120,296,118,301,107,295,69,264,42,233"/>
+<area shape="rect" id="Node000018" href="$pd__sink_8c.html#a3893c0f7b213a82041d65281d8945981" title="Ticks a USB&#45;PD sink." alt="" coords="144,353,224,379"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="41,230,64,283,84,314,110,340,132,353,130,357,106,344,80,317,60,286,36,232"/>
+<area shape="rect" id="Node000003" href="$hal__pico_8c.html#a645867ba597a314591794d445a2ccaad" title="Callback function for decoded packets." alt="" coords="333,5,459,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,52,327,31,328,36,240,57"/>
+<area shape="rect" id="Node000004" href="$pd__phy_8c.html#af80d4f91f64d761ce50b55b5a9199d70" title="Decodes a stream of USB&#45;PD data." alt="" coords="308,55,484,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,65,294,65,294,70,244,70"/>
+<area shape="rect" id="Node000005" href="$pd__library_8c.html#a5a75d313ead0050b5c4b8f3d4702d9fd" title="Calculates the CRC32 of a block of data." alt="" coords="575,55,655,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="485,65,561,65,561,70,485,70"/>
+<area shape="rect" id="Node000006" href="$pd__library_8c.html#a1f201da034305a2f465558f34f1e5b12" title="Generates the CRC32 table." alt="" coords="745,55,892,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="655,65,732,65,732,70,655,70"/>
+<area shape="rect" id="Node000008" href="$pd__phy_8c.html#aa5f5e08244f0d296f9f7d128ab6a1354" title="Initializes a USB&#45;PD physical layer decoder." alt="" coords="318,104,474,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="219,114,304,114,304,119,219,119"/>
+<area shape="rect" id="Node000010" href="$pd__library_8c.html#afb3fc25f50d6308653e53c1c0941f6cd" title="Builds a Vendor Defined Message (VDM) header." alt="" coords="532,155,697,180"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="444,165,518,165,518,170,444,170"/>
+<area shape="rect" id="Node000011" href="$pd__library_8c.html#a7d29ef2f67bf020888e556cc491e15aa" title="Builds a USB&#45;PD header." alt="" coords="550,204,679,229"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="444,175,545,198,544,203,443,181"/>
+<area shape="rect" id="Node000012" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="539,253,690,279"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="445,173,485,189,501,202,510,215,519,228,533,240,545,246,542,251,531,244,515,231,506,218,497,206,483,194,443,178"/>
+<area shape="rect" id="Node000014" href="$pd__sink_8c.html#a96f884594eeeeffef852350c5ede842d" title="Sends a GoodCRC message." alt="" coords="337,204,455,229"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="260,215,323,214,323,220,260,220"/>
+<area shape="rect" id="Node000015" href="$pd__sink_8c.html#ae98272907db2ec87128eba9b2b98ca51" title="Sends a Request message." alt="" coords="341,253,451,279"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="241,228,328,248,327,253,240,233"/>
+<area shape="poly" id="edge14_Node000014_Node000011" title=" " alt="" coords="456,214,536,214,536,219,456,219"/>
+<area shape="poly" id="edge15_Node000014_Node000012" title=" " alt="" coords="454,227,545,248,544,253,452,232"/>
+<area shape="poly" id="edge17_Node000015_Node000011" title=" " alt="" coords="450,251,544,230,545,235,451,256"/>
+<area shape="poly" id="edge18_Node000015_Node000012" title=" " alt="" coords="451,263,525,263,525,269,451,269"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="src/test_firmware/ponger.c" name="src/test_firmware/ponger.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="380,5,575,31"/>
+<area shape="rect" id="Node000002" href="$ponger__logic_8h.html" title="Logic for the ponger." alt="" coords="64,79,181,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,33,194,79,193,73,420,28"/>
+<area shape="rect" id="Node000003" href="$pd__library_8h.html" title="Shared library for USB Power Delivery." alt="" coords="102,152,199,177"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="401,33,327,51,288,65,252,81,207,111,172,144,169,140,204,107,249,76,286,60,325,46,400,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,299,107,324"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="380,21,287,25,190,34,106,52,75,65,54,80,39,104,30,130,26,158,26,186,35,241,49,285,44,286,30,242,21,187,21,157,25,129,34,101,50,77,72,60,104,47,189,29,287,19,380,16"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="233,225,351,251"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="381,31,335,49,315,63,298,80,283,112,279,148,281,182,287,212,282,213,276,183,274,147,278,111,294,77,311,59,332,44,379,26"/>
+<area shape="rect" id="Node000007" href="$test__firmware__common_8h.html" title="Common definitions for the test firmware." alt="" coords="307,79,495,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="467,33,426,71,422,67,463,29"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="520,79,587,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="491,29,533,67,529,71,488,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="611,79,739,104"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="510,28,630,71,629,76,508,33"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="763,79,903,104"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="535,28,763,73,762,79,534,33"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="928,79,1061,104"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="563,28,915,76,914,81,563,33"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1086,79,1239,104"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="575,26,1072,76,1072,81,575,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,103,144,138,139,140,125,105"/>
+<area shape="rect" id="Node000004" href="$pd__common_8h.html" title=" " alt="" coords="93,225,208,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,178,153,212,148,212,148,178"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="134,180,108,200,84,227,70,256,62,286,57,284,65,254,79,224,104,196,131,175"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="175,175,258,217,256,221,172,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="137,253,84,292,81,288,134,249"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="366,152,437,177"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="404,104,404,138,399,138,399,104"/>
+</map>

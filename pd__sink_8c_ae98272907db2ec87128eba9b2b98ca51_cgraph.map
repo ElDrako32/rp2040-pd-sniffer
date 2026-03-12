@@ -1,0 +1,7 @@
+<map id="send_request" name="send_request">
+<area shape="rect" id="Node000001" title="Sends a Request message." alt="" coords="5,31,115,56"/>
+<area shape="rect" id="Node000002" href="$pd__library_8c.html#a7d29ef2f67bf020888e556cc491e15aa" title="Builds a USB&#45;PD header." alt="" coords="173,5,303,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,33,159,27,160,32,115,38"/>
+<area shape="rect" id="Node000003" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="163,55,313,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,48,149,53,148,58,115,53"/>
+</map>

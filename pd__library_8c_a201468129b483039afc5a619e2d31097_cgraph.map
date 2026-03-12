@@ -1,0 +1,16 @@
+<map id="__attribute__" name="__attribute__">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,112,56"/>
+<area shape="rect" id="Node000002" href="$hal__stm32_8c.html#acbd9b8df8db0fbc69a280dbefc730781" title="Puts a word into a PIO state machine&#39;s TX FIFO." alt="" coords="169,5,293,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,33,155,26,156,32,113,38"/>
+<area shape="rect" id="Node000003" href="$pd__library_8c.html#ab370ac74e9c129fee356453e45d0110e" title="Encodes a USB&#45;PD packet." alt="" coords="160,55,303,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,48,147,53,146,58,112,53"/>
+<area shape="rect" id="Node000004" href="$pd__library_8c.html#a5d3747f70e73178974757db9123c6297" title="Appends a 16&#45;bit value to a 4b/5b encoded stream." alt="" coords="557,29,667,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,52,350,39,452,34,544,35,544,41,452,39,351,45,281,57"/>
+<area shape="rect" id="Node000005" href="$pd__library_8c.html#aa9f547ab37a1902a9fc2c0908c8f15a1" title="Appends a 32&#45;bit value to a 4b/5b encoded stream." alt="" coords="351,55,491,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="303,65,337,65,337,70,303,70"/>
+<area shape="rect" id="Node000006" href="$pd__library_8c.html#a5a75d313ead0050b5c4b8f3d4702d9fd" title="Calculates the CRC32 of a block of data." alt="" coords="381,104,461,129"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="281,77,368,100,366,105,280,83"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="491,55,543,48,544,54,492,61"/>
+<area shape="rect" id="Node000007" href="$pd__library_8c.html#a1f201da034305a2f465558f34f1e5b12" title="Generates the CRC32 table." alt="" coords="539,104,685,129"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="461,114,525,114,525,119,461,119"/>
+</map>

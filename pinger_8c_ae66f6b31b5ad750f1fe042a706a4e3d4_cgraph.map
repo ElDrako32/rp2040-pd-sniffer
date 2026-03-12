@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,60,56"/>
+<area shape="rect" id="Node000002" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="108,5,259,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,36,94,30,95,36,61,41"/>
+<area shape="rect" id="Node000003" href="$pinger_8c.html#ae3b6d56705867b9046f653fd282404d6" title=" " alt="" coords="137,55,229,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="61,45,124,55,123,60,60,50"/>
+</map>

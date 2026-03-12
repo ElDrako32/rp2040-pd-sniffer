@@ -1,0 +1,11 @@
+<map id="hal_get_packet" name="hal_get_packet">
+<area shape="rect" id="Node000001" title="Gets a USB&#45;PD packet from a port." alt="" coords="5,31,125,56"/>
+<area shape="rect" id="Node000002" href="$hal__pico_8c.html#a645867ba597a314591794d445a2ccaad" title="Callback function for decoded packets." alt="" coords="198,5,325,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,33,184,25,185,31,126,38"/>
+<area shape="rect" id="Node000003" href="$pd__phy_8c.html#af80d4f91f64d761ce50b55b5a9199d70" title="Decodes a stream of USB&#45;PD data." alt="" coords="173,55,349,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,48,160,52,159,58,125,53"/>
+<area shape="rect" id="Node000004" href="$pd__library_8c.html#a5a75d313ead0050b5c4b8f3d4702d9fd" title="Calculates the CRC32 of a block of data." alt="" coords="397,55,477,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="350,65,383,65,383,70,350,70"/>
+<area shape="rect" id="Node000005" href="$pd__library_8c.html#a1f201da034305a2f465558f34f1e5b12" title="Generates the CRC32 table." alt="" coords="525,55,672,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="477,65,511,65,511,70,477,70"/>
+</map>

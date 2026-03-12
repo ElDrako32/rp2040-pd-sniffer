@@ -1,0 +1,12 @@
+<map id="src/pd_library/pd_sink.h" name="src/pd_library/pd_sink.h">
+<area shape="rect" id="Node000001" title="USB Power Delivery sink." alt="" coords="69,5,245,31"/>
+<area shape="rect" id="Node000002" href="$pd__library_8h.html" title="Shared library for USB Power Delivery." alt="" coords="109,79,206,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,31,160,65,155,65,155,31"/>
+<area shape="rect" id="Node000003" href="$pd__common_8h.html" title=" " alt="" coords="5,152,120,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,106,91,146,88,141,141,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="59,225,160,251"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="157,105,135,178,122,213,117,211,129,176,152,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="195,152,314,177"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="175,102,229,141,226,146,171,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="73,176,96,212,92,215,68,179"/>
+</map>

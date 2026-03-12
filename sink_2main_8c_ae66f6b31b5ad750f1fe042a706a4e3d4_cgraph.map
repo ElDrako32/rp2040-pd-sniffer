@@ -1,0 +1,33 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,60,179"/>
+<area shape="rect" id="Node000002" href="$hal__pico_8c.html#a8737378015e721f0a0e10a0213ff310a" title="Gets a USB&#45;PD packet from a port." alt="" coords="123,55,243,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,151,69,120,107,89,118,83,120,88,109,94,72,124,46,155"/>
+<area shape="rect" id="Node000007" href="$hal__pico_8c.html#af5ea9c5882c188e9e9ca181430547644" title="Initializes a USB&#45;PD port." alt="" coords="148,104,219,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="59,155,134,130,136,135,61,160"/>
+<area shape="rect" id="Node000009" href="$pd__sink_8c.html#af7474092a69bea5fba0fb00f1da7bf23" title="Handles a USB&#45;PD packet for a sink." alt="" coords="108,153,259,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="60,163,94,163,94,169,60,169"/>
+<area shape="rect" id="Node000014" href="$pd__sink_8c.html#a9799f89acd421e773e8d2db39d78598b" title="Initializes a USB&#45;PD sink." alt="" coords="145,203,222,228"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="61,173,109,189,132,197,131,202,107,194,59,178"/>
+<area shape="rect" id="Node000015" href="$pd__sink_8c.html#a3893c0f7b213a82041d65281d8945981" title="Ticks a USB&#45;PD sink." alt="" coords="143,252,223,277"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="46,177,72,208,109,238,131,249,129,254,107,243,69,212,42,181"/>
+<area shape="rect" id="Node000003" href="$hal__pico_8c.html#a645867ba597a314591794d445a2ccaad" title="Callback function for decoded packets." alt="" coords="331,55,458,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,65,318,65,318,70,243,70"/>
+<area shape="rect" id="Node000004" href="$pd__phy_8c.html#af80d4f91f64d761ce50b55b5a9199d70" title="Decodes a stream of USB&#45;PD data." alt="" coords="307,5,483,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,52,326,31,327,36,239,57"/>
+<area shape="rect" id="Node000005" href="$pd__library_8c.html#a5a75d313ead0050b5c4b8f3d4702d9fd" title="Calculates the CRC32 of a block of data." alt="" coords="566,5,646,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="483,15,552,15,552,21,483,21"/>
+<area shape="rect" id="Node000006" href="$pd__library_8c.html#a1f201da034305a2f465558f34f1e5b12" title="Generates the CRC32 table." alt="" coords="729,5,876,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="646,15,716,15,716,21,646,21"/>
+<area shape="rect" id="Node000008" href="$pd__phy_8c.html#aa5f5e08244f0d296f9f7d128ab6a1354" title="Initializes a USB&#45;PD physical layer decoder." alt="" coords="317,104,473,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="219,114,303,114,303,119,219,119"/>
+<area shape="rect" id="Node000010" href="$pd__sink_8c.html#a96f884594eeeeffef852350c5ede842d" title="Sends a GoodCRC message." alt="" coords="335,153,454,179"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="259,163,321,163,321,169,259,169"/>
+<area shape="rect" id="Node000013" href="$pd__sink_8c.html#ae98272907db2ec87128eba9b2b98ca51" title="Sends a Request message." alt="" coords="340,203,449,228"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="239,176,327,197,326,202,238,181"/>
+<area shape="rect" id="Node000011" href="$pd__library_8c.html#a7d29ef2f67bf020888e556cc491e15aa" title="Builds a USB&#45;PD header." alt="" coords="541,203,671,228"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="450,176,538,197,537,202,449,181"/>
+<area shape="rect" id="Node000012" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="531,153,681,179"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="454,163,517,163,517,169,454,169"/>
+<area shape="poly" id="edge13_Node000013_Node000011" title=" " alt="" coords="450,213,527,213,527,218,450,218"/>
+<area shape="poly" id="edge14_Node000013_Node000012" title=" " alt="" coords="449,200,537,179,538,184,450,205"/>
+</map>

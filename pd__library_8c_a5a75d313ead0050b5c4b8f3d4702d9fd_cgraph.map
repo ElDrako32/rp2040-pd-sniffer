@@ -1,0 +1,5 @@
+<map id="pd_crc32" name="pd_crc32">
+<area shape="rect" id="Node000001" title="Calculates the CRC32 of a block of data." alt="" coords="5,5,85,31"/>
+<area shape="rect" id="Node000002" href="$pd__library_8c.html#a1f201da034305a2f465558f34f1e5b12" title="Generates the CRC32 table." alt="" coords="133,5,280,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,15,119,15,119,21,85,21"/>
+</map>

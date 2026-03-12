@@ -1,0 +1,27 @@
+<map id="pd_header_build" name="pd_header_build">
+<area shape="rect" id="Node000001" title="Builds a USB&#45;PD header." alt="" coords="720,104,849,129"/>
+<area shape="rect" id="Node000002" href="$mitm_2main_8c.html#ae116e5372ab52cb23ab6361229c1c6dc" title="Injects a Vendor Defined Message (VDM) into the USB&#45;PD bus." alt="" coords="313,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,97,718,68,671,44,601,27,530,18,463,16,408,17,408,12,463,10,530,13,602,22,673,40,721,64,760,93"/>
+<area shape="rect" id="Node000004" href="$pd__sink_8c.html#a96f884594eeeeffef852350c5ede842d" title="Sends a GoodCRC message." alt="" coords="519,55,637,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="717,103,631,83,633,77,718,98"/>
+<area shape="rect" id="Node000006" href="$pd__sink_8c.html#ae98272907db2ec87128eba9b2b98ca51" title="Sends a Request message." alt="" coords="523,104,633,129"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="707,119,633,119,633,114,707,114"/>
+<area shape="rect" id="Node000007" href="$sink__tester__logic_8c.html#aa94900c43fe4a513b937c5fa250504ed" title="Processes a received Source_Capabilities packet and, if it matches the desired profile,..." alt="" coords="503,154,653,194"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="726,136,651,157,650,151,724,131"/>
+<area shape="rect" id="Node000011" href="$source__emulator__logic_8c.html#af9ba9e1332cc66bcbf7c35904f1417c9" title="Prepares a Source_Capabilities packet." alt="" coords="484,218,672,258"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="762,141,722,175,673,208,647,220,645,216,671,204,719,171,758,137"/>
+<area shape="rect" id="Node000003" href="$mitm_2main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="145,31,200,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,29,201,42,200,37,299,24"/>
+<area shape="rect" id="Node000005" href="$pd__sink_8c.html#af7474092a69bea5fba0fb00f1da7bf23" title="Handles a USB&#45;PD packet for a sink." alt="" coords="285,55,436,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="505,70,436,70,436,65,505,65"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="271,59,200,49,201,44,272,53"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="509,104,417,83,418,77,510,99"/>
+<area shape="rect" id="Node000008" href="$sink__tester_8c.html#ab47cc50728ae297f80a529f489006046" title=" " alt="" coords="317,161,405,187"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="489,177,405,177,405,171,489,171"/>
+<area shape="rect" id="Node000009" href="$sink__tester_8c.html#a44bb4b2b5719bb053a363d1df27916ff" title=" " alt="" coords="108,161,237,187"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="303,177,237,177,237,171,303,171"/>
+<area shape="rect" id="Node000010" href="$sink__tester_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,161,60,187"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="94,177,60,177,60,171,94,171"/>
+<area shape="rect" id="Node000012" href="$source__emulator_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="333,225,388,251"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="470,241,388,241,388,235,470,235"/>
+</map>

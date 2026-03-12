@@ -1,0 +1,13 @@
+<map id="sink_handle_packet" name="sink_handle_packet">
+<area shape="rect" id="Node000001" title="Handles a USB&#45;PD packet for a sink." alt="" coords="5,31,156,56"/>
+<area shape="rect" id="Node000002" href="$pd__sink_8c.html#a96f884594eeeeffef852350c5ede842d" title="Sends a GoodCRC message." alt="" coords="204,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,30,190,25,191,31,157,36"/>
+<area shape="rect" id="Node000005" href="$pd__sink_8c.html#ae98272907db2ec87128eba9b2b98ca51" title="Sends a Request message." alt="" coords="209,55,318,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="157,51,195,56,195,61,156,56"/>
+<area shape="rect" id="Node000003" href="$pd__library_8c.html#a7d29ef2f67bf020888e556cc491e15aa" title="Builds a USB&#45;PD header." alt="" coords="381,5,511,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,15,367,15,367,21,323,21"/>
+<area shape="rect" id="Node000004" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="371,55,521,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="312,28,386,48,384,54,310,33"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="310,52,384,32,386,37,312,57"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="318,65,357,65,357,70,318,70"/>
+</map>

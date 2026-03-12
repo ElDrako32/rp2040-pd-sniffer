@@ -1,0 +1,17 @@
+<map id="generate_crc_table" name="generate_crc_table">
+<area shape="rect" id="Node000001" title="Generates the CRC32 table." alt="" coords="628,55,775,80"/>
+<area shape="rect" id="Node000002" href="$pd__library_8c.html#a5a75d313ead0050b5c4b8f3d4702d9fd" title="Calculates the CRC32 of a block of data." alt="" coords="500,55,580,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="614,70,580,70,580,65,614,65"/>
+<area shape="rect" id="Node000003" href="$hal__stm32_8c.html#af084fc132d3ee87b289b4b10e0b00d3a" title="Calculates the CRC32 of a block of data." alt="" coords="322,5,406,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,55,451,45,406,32,407,27,453,39,488,49"/>
+<area shape="rect" id="Node000004" href="$pd__library_8c.html#ab370ac74e9c129fee356453e45d0110e" title="Encodes a USB&#45;PD packet." alt="" coords="293,55,435,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="486,70,435,70,435,65,486,65"/>
+<area shape="rect" id="Node000006" href="$pd__phy_8c.html#af80d4f91f64d761ce50b55b5a9199d70" title="Decodes a stream of USB&#45;PD data." alt="" coords="276,104,452,129"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="487,85,411,106,409,101,486,80"/>
+<area shape="rect" id="Node000005" href="$pd__library_8c.html#a201468129b483039afc5a619e2d31097" title=" " alt="" coords="115,55,221,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,70,222,70,222,65,278,65"/>
+<area shape="rect" id="Node000007" href="$hal__pico_8c.html#a8737378015e721f0a0e10a0213ff310a" title="Gets a USB&#45;PD packet from a port." alt="" coords="108,104,228,129"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="262,119,228,119,228,114,262,114"/>
+<area shape="rect" id="Node000008" href="$mitm_2main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,104,60,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="94,119,60,119,60,114,94,114"/>
+</map>

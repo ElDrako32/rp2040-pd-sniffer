@@ -1,0 +1,5 @@
+<map id="on_packet" name="on_packet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,93,31"/>
+<area shape="rect" id="Node000002" href="$pinger__logic_8c.html#aae30672b89a074cd027c8a3ff0490735" title="Processes a received packet and returns true if it&#39;s a &quot;PONG&quot; message." alt="" coords="141,5,312,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,15,127,15,127,21,93,21"/>
+</map>

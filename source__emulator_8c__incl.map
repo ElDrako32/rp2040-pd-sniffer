@@ -1,0 +1,20 @@
+<map id="src/test_firmware/source_emulator.c" name="src/test_firmware/source_emulator.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,5,443,45"/>
+<area shape="rect" id="Node000002" href="$source__emulator__logic_8h.html" title="Logic for the source emulator." alt="" coords="83,93,264,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,48,213,90,211,85,308,43"/>
+<area shape="rect" id="Node000003" href="$pd__library_8h.html" title="Shared library for USB Power Delivery." alt="" coords="90,167,257,192"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="342,47,314,83,278,121,245,144,212,163,209,158,242,140,274,117,310,80,337,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="107,313,208,339"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="359,46,365,89,366,148,356,210,344,240,327,267,305,288,279,303,250,314,222,321,221,316,249,309,277,299,302,284,323,264,340,238,351,209,361,147,359,90,353,46"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="389,93,456,119"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="371,44,405,81,401,85,367,47"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="481,93,634,119"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="402,43,515,86,513,91,400,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,119,176,153,171,153,171,119"/>
+<area shape="rect" id="Node000004" href="$pd__common_8h.html" title=" " alt="" coords="5,240,120,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,194,94,235,91,230,154,190"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="175,193,163,300,157,299,169,192"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="195,240,314,265"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="188,190,233,229,229,233,185,194"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="79,263,132,303,129,307,76,267"/>
+</map>

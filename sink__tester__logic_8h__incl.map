@@ -1,0 +1,14 @@
+<map id="src/test_firmware/sink_tester_logic.h" name="src/test_firmware/sink_tester_logic.h">
+<area shape="rect" id="Node000001" title="Logic for the sink tester." alt="" coords="131,5,298,45"/>
+<area shape="rect" id="Node000002" href="$pd__library_8h.html" title="Shared library for USB Power Delivery." alt="" coords="109,93,206,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,47,176,84,172,80,199,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="231,93,313,119"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="231,44,257,80,253,84,226,47"/>
+<area shape="rect" id="Node000003" href="$pd__common_8h.html" title=" " alt="" coords="5,167,120,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,121,91,160,88,156,141,117"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="59,240,160,265"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="157,120,135,193,122,228,117,226,129,191,152,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="195,167,314,192"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="175,117,229,156,226,160,171,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="73,191,96,227,92,230,68,194"/>
+</map>

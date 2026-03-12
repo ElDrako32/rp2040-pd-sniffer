@@ -1,0 +1,7 @@
+<map id="on_packet" name="on_packet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,93,56"/>
+<area shape="rect" id="Node000002" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="153,5,304,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,35,139,28,140,33,94,40"/>
+<area shape="rect" id="Node000003" href="$ponger__logic_8c.html#a4acfd1370a72e73bf77d085e0eff8f4f" title="Processes a received packet and, if it&#39;s a &quot;PING&quot;, prepares a &quot;PONG&quot; packet in response." alt="" coords="141,55,316,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,47,128,51,127,56,93,52"/>
+</map>

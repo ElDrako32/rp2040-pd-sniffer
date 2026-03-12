@@ -1,0 +1,18 @@
+<map id="src/test_firmware/ponger_logic.c" name="src/test_firmware/ponger_logic.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,5,337,45"/>
+<area shape="rect" id="Node000002" href="$ponger__logic_8h.html" title="Logic for the ponger." alt="" coords="99,93,216,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,48,183,86,179,82,222,44"/>
+<area shape="rect" id="Node000007" href="$test__firmware__common_8h.html" title="Common definitions for the test firmware." alt="" coords="241,93,429,119"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="269,44,313,82,309,86,265,48"/>
+<area shape="rect" id="Node000003" href="$pd__library_8h.html" title="Shared library for USB Power Delivery." alt="" coords="109,167,206,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="160,119,160,153,155,153,155,119"/>
+<area shape="rect" id="Node000004" href="$pd__common_8h.html" title=" " alt="" coords="5,240,120,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,194,91,234,88,229,141,190"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="59,313,160,339"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="157,193,135,266,122,301,117,299,129,264,152,191"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="195,240,314,265"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="175,190,229,229,226,234,171,194"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="73,264,96,300,92,303,68,267"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="299,167,370,192"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="337,119,337,153,332,153,332,119"/>
+</map>

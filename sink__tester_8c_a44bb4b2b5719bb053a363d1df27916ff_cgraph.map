@@ -1,0 +1,11 @@
+<map id="sink_tester_loop" name="sink_tester_loop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,135,60"/>
+<area shape="rect" id="Node000002" href="$sink__tester_8c.html#ab47cc50728ae297f80a529f489006046" title=" " alt="" coords="183,35,271,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,45,169,45,169,50,135,50"/>
+<area shape="rect" id="Node000003" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="319,5,469,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,37,307,30,308,36,271,42"/>
+<area shape="rect" id="Node000004" href="$sink__tester__logic_8c.html#aa94900c43fe4a513b937c5fa250504ed" title="Processes a received Source_Capabilities packet and, if it matches the desired profile,..." alt="" coords="319,55,469,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="271,52,305,58,304,63,270,57"/>
+<area shape="rect" id="Node000005" href="$pd__library_8c.html#a7d29ef2f67bf020888e556cc491e15aa" title="Builds a USB&#45;PD header." alt="" coords="517,63,647,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="470,73,504,73,504,78,470,78"/>
+</map>

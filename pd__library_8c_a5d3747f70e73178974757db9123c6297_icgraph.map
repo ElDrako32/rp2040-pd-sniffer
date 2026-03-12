@@ -1,0 +1,10 @@
+<map id="append_4b5b" name="append_4b5b">
+<area shape="rect" id="Node000001" title="Appends a 16&#45;bit value to a 4b/5b encoded stream." alt="" coords="539,31,648,56"/>
+<area shape="rect" id="Node000002" href="$pd__library_8c.html#aa9f547ab37a1902a9fc2c0908c8f15a1" title="Appends a 32&#45;bit value to a 4b/5b encoded stream." alt="" coords="351,5,491,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,36,491,31,491,26,525,31"/>
+<area shape="rect" id="Node000003" href="$pd__library_8c.html#ab370ac74e9c129fee356453e45d0110e" title="Encodes a USB&#45;PD packet." alt="" coords="160,31,303,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="525,46,303,46,303,41,525,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,32,304,36,303,31,336,27"/>
+<area shape="rect" id="Node000004" href="$pd__library_8c.html#a201468129b483039afc5a619e2d31097" title=" " alt="" coords="5,31,112,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,46,112,46,112,41,146,41"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="src/hal/stm32/hal_stm32.c" name="src/hal/stm32/hal_stm32.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,5,348,31"/>
+<area shape="rect" id="Node000002" href="$hal_8h.html" title="Hardware Abstraction Layer for USB Power Delivery." alt="" coords="151,79,229,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,33,211,70,207,66,239,29"/>
+<area shape="rect" id="Node000006" href="$pd__library_8h.html" title="Shared library for USB Power Delivery." alt="" coords="361,79,459,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="278,28,373,71,371,75,276,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,106,79,148,76,144,165,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,152,175,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="184,106,157,142,152,139,179,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,152,282,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="201,103,227,139,222,142,196,106"/>
+<area shape="rect" id="Node000007" href="$pd__common_8h.html" title=" " alt="" coords="306,152,421,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="405,106,381,142,376,139,400,103"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="359,225,461,251"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="418,103,428,125,435,152,434,184,425,214,420,212,429,183,430,152,423,127,413,105"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="496,152,615,177"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="435,102,521,144,518,148,432,106"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="373,176,397,212,393,215,369,179"/>
+</map>

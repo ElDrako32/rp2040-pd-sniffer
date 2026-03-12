@@ -1,0 +1,5 @@
+<map id="pinger_process_packet" name="pinger_process_packet">
+<area shape="rect" id="Node000001" title="Processes a received packet and returns true if it&#39;s a &quot;PONG&quot; message." alt="" coords="141,5,312,31"/>
+<area shape="rect" id="Node000002" href="$pinger_8c.html#ab47cc50728ae297f80a529f489006046" title=" " alt="" coords="5,5,93,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,21,94,21,94,15,128,15"/>
+</map>

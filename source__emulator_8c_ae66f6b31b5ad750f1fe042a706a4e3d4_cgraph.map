@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,60,80"/>
+<area shape="rect" id="Node000002" href="$pd__library_8h.html#af02590e75682a6364b1bcccfcee85eea" title="Transmits a USB&#45;PD packet." alt="" coords="127,5,277,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,55,107,39,135,32,136,37,109,45,61,60"/>
+<area shape="rect" id="Node000003" href="$source__emulator_8c.html#ae3b6d56705867b9046f653fd282404d6" title=" " alt="" coords="156,55,248,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="60,65,142,65,142,70,60,70"/>
+<area shape="rect" id="Node000004" href="$source__emulator__logic_8c.html#af9ba9e1332cc66bcbf7c35904f1417c9" title="Prepares a Source_Capabilities packet." alt="" coords="108,105,296,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="61,74,131,98,129,103,59,79"/>
+<area shape="rect" id="Node000005" href="$pd__library_8c.html#a7d29ef2f67bf020888e556cc491e15aa" title="Builds a USB&#45;PD header." alt="" coords="344,112,473,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,122,330,122,330,127,296,127"/>
+</map>

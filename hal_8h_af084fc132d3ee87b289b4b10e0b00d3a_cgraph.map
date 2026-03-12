@@ -1,0 +1,7 @@
+<map id="hal_crc32" name="hal_crc32">
+<area shape="rect" id="Node000001" title="Calculates the CRC32 of a block of data." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="Node000002" href="$pd__library_8c.html#a5a75d313ead0050b5c4b8f3d4702d9fd" title="Calculates the CRC32 of a block of data." alt="" coords="137,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,15,124,15,124,21,90,21"/>
+<area shape="rect" id="Node000003" href="$pd__library_8c.html#a1f201da034305a2f465558f34f1e5b12" title="Generates the CRC32 table." alt="" coords="265,5,412,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,15,251,15,251,21,217,21"/>
+</map>
