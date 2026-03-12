@@ -37,15 +37,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: 'true'
+          submodules: recursive
 
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y cmake gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-eabi-newlib build-essential
-
+      - name: Setup Pico SDK
+        run: |
+          git clone https://github.com/raspberrypi/pico-sdk.git
+          cd pico-sdk
+          git submodule update --init
+          cd ..
+          
       - name: Create build directory and run CMake
-        run: cmake -B build -S .
+        env:
+          PICO_SDK_PATH: ${{ github.workspace }}/pico-sdk
+        run: |
+          cmake -B build -DPICO_SDK_PATH=${PICO_SDK_PATH} -S .
 
       - name: Build firmware
         run: cmake --build build --parallel
